@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+draft-purchase-*.png
+expense-attachment-*.png
+docs/aankoopform-raw.json
+docs/aankoop-form-full.png
