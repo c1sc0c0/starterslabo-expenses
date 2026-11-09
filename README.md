@@ -2,7 +2,7 @@
 
 Unofficial [Cursor](https://cursor.com) / [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill plus Playwright scripts to enter **Nieuwe aankoopfactuur SL** on [mijn.starterslabo.be](https://mijn.starterslabo.be).
 
-For personal out-of-pocket expenses (onkostennota), use a separate workflow on `PurchaseForm.aspx?Type=E`.
+For personal out-of-pocket expenses (onkostennota), use [starterslabo-costs](https://github.com/c1sc0c0/starterslabo-costs) (`PurchaseForm.aspx?Type=E`).
 
 Not affiliated with Starterslabo.
 
@@ -78,6 +78,9 @@ Visible browser for debugging: `HEADED=1 uv run python create_draft_purchase.py 
 
 ## Related
 
+Index: [starterslabo-skills](https://github.com/c1sc0c0/starterslabo-skills).
+
+- [starterslabo-costs](https://github.com/c1sc0c0/starterslabo-costs) — onkostennota
 - [starterslabo-eval](https://github.com/c1sc0c0/starterslabo-eval) — monthly LABO evaluatiefiche Excel
 - [starterslabo-faq](https://github.com/c1sc0c0/starterslabo-faq) — portal FAQ crawl / Q&A
 
